@@ -1,4 +1,4 @@
--Python 
--Java
--Rock climb
--Video games
+- Python 
+- Java
+- Rock climb
+- Video games
